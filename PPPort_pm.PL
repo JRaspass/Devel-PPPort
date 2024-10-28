@@ -903,6 +903,8 @@ __DATA__
 
 %include locale
 
+%include newAV_alloc_x
+
 #endif /* _P_P_PORTABILITY_H_ */
 
 /* End of File ppport.h */
